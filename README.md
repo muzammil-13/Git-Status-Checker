@@ -20,9 +20,9 @@ bash scripts/check_git_status.sh
 ### Windows (PowerShell)
 
 Run:
-
+```bash
 powershell -ExecutionPolicy Bypass -File scripts/check_git_status.ps1
-
+```
 ## Requirements
 
 Ensure you have Git installed and accessible from the command line.
